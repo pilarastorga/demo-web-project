@@ -31,7 +31,7 @@
       <groupID>com.mysql</groupID>
       <artifactID>mysql-connector-j</artifactID>
       <version>8.4.0</version>
-    <dependency>
+    </dependency>
   </dependencies>
 
   <build>
